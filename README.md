@@ -11,4 +11,4 @@
 1. [项目1](https://github.com/vinkiyu/Multiscribe-Agent)
 2. [项目2](https://github.com/vinkiYu/XunZhi-AI-Meeting)
 
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=Lorin-github)](https://github.com/vinkiYu/github-readme-stats)
+[![vinkiYu](https://github-readme-stats.vercel.app/api?username=Lorin-github)](https://github.com/vinkiYu/github-readme-stats)
