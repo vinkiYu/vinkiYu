@@ -17,6 +17,8 @@
 
 
 
+<div align="left">
+
 **Author**
 
 - [Multiscribe-Agent](https://github.com/vinkiYu/Multiscribe-Agent) — AI-Powered Daily Newsletter — aggregate RSS / GitHub Trending / AI Search into a personalized daily digest and push to Feishu, WeCom, WeChat Official Account, Xiaohongshu, and DingTalk..
@@ -25,6 +27,8 @@
 **Contributor**
 
 - [open-design](https://github.com/nexu-io/open-design) — Fixed the issue where images generated in new sessions of Open Design were not automatically previewed, and completed the attachment exclusion, disconnection recovery, image onboarding, and regression testing to ensure that generated images can be safely and automatically opened.
+
+</div>
 
 
 <p align="center">
