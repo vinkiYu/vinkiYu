@@ -24,7 +24,7 @@
 
 **Contributor**
 
-- [agentscope-java](https://github.com/agentscope-ai/agentscope-java) — Fixed the issue where images generated in new sessions of Open Design were not automatically previewed, and completed the attachment exclusion, disconnection recovery, image onboarding, and regression testing to ensure that generated images can be safely and automatically opened.
+- [open-design](https://github.com/nexu-io/open-design) — Fixed the issue where images generated in new sessions of Open Design were not automatically previewed, and completed the attachment exclusion, disconnection recovery, image onboarding, and regression testing to ensure that generated images can be safely and automatically opened.
 
 
 <p align="center">
