@@ -17,7 +17,7 @@
 
 
 
-**Author**
+Author
 
 - [Multiscribe-Agent](https://github.com/vinkiYu/Multiscribe-Agent) — AI-Powered Daily Newsletter — aggregate RSS / GitHub Trending / AI Search into a personalized daily digest and push to Feishu, WeCom, WeChat Official Account, Xiaohongshu, and DingTalk..
 - [XunZhi-AI-Meeting](https://github.com/vinkiYu/XunZhi-AI-Meeting) — AI multi-round question-answering, follow-up question evaluation, and long conversation recovery system for thesis defense scenarios.
