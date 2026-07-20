@@ -26,7 +26,6 @@
 
 - [agentscope-java](https://github.com/agentscope-ai/agentscope-java) — Agent-oriented programming for building LLM applications.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinkiYu&theme=tokyonight" width="100%" />
 
 <p align="center">
   <i>Thanks for visiting — let's build something intelligent together.</i>
