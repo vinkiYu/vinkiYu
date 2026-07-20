@@ -31,8 +31,9 @@
 </div>
 
 
+
+
 <p align="center">
   <i>Thanks for visiting — let's build something intelligent together.</i>
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
