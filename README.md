@@ -27,6 +27,7 @@
 **Contributor**
 
 - [open-design](https://github.com/nexu-io/open-design) — Fixed the issue where images generated in new sessions of Open Design were not automatically previewed, and completed the attachment exclusion, disconnection recovery, image onboarding, and regression testing to ensure that generated images can be safely and automatically opened.
+- [AgentRecall](https://github.com/zszz3/AgentRecall) — Designed and implemented a 5-minute grace period expiration recycling mechanism for the Electron cross-device session sync module, fixing endless retries in async hook queues and leftover pending states. Time injection covers race conditions, edge expiration and index failure scenarios.
 
 </div>
 
